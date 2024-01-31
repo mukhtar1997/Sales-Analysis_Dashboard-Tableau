@@ -1,4 +1,4 @@
-# Sales-_Dashboard-Tableau
+# Sales Analysis_Dashboard-Tableau
 A dynamic Sales Dashboard that's not just visually stunning but also incredibly insightful!
 
 Category Section with Doughnut Chart & Reason Filter:
